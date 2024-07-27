@@ -1,5 +1,5 @@
 -------------------------------------------------Created by hadi yaghi-------------------------------------------------
-27/07/2024
+
 
 In this repository I've added my taks that I am done so far during my first 2 days of the internship at codsoft.
 ----------------------------------------------Task 1------------------------------------------------
@@ -20,3 +20,4 @@ The program has a main menu of three selections :
 
 ----------------------------------------------Task 2------------------------------------------------
                                 --------Student Grade Calulator----------
+27/07/2024
