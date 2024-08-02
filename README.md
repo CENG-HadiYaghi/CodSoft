@@ -1,23 +1,35 @@
--------------------------------------------------Created by hadi yaghi-------------------------------------------------
+CodSoft Internship - Task Repository
+Created by: Hadi Yaghi
 
+Welcome to my CodSoft internship repository. Here, you will find the tasks completed during the first two days of my internship. 
+The following projects showcase my initial work and programming skills:
 
-In this repository I've added my taks that I am done so far during my first 2 days of the internship at codsoft.
-----------------------------------------------Task 1------------------------------------------------
-                                -------Number Guessing Game----------
-The program is a simple number guessing game that ask the user to add number of attempts they want,
-and guess a number between 1 and 100 within the number of attempts.
-After each attempt the program displays the number of attempts left for the user
-and the condition whether the number entered is above or below the random number .
+Task 1: Number Guessing Game
+Description
+The Number Guessing Game is an interactive program where the user tries to guess a randomly generated number between 1 and 100. The user specifies the number of attempts allowed. After each guess, the program informs the user if their guess is too high or too low and how many attempts are remaining.
 
-When the user enters the correct number it displays a message 
-and the number of attempts they took to guess the number, 
-then it asks the user if they want to continue and replay the game with a new number 
+Features
+Number of Attempts: User defines how many attempts they want.
+Feedback: After each guess, the program provides feedback on whether the guess is above or below the target number.
+Score Display: Shows the number of attempts used and the number of attempts left.
+Replay Option: Once the correct number is guessed, the user is prompted to play again with a new number.
+Main Menu:
+Enter the Game: Starts the game and generates a new random number.
+View Score: Displays the score (20 points per win) and the total number of rounds won.
+Quit: Asks for confirmation to exit and displays a goodbye message.
+Task 2: Student Grade Calculator
+Description
+The Student Grade Calculator is a program designed to help users input grades for multiple subjects, calculate the total and average grades, and determine the final grade based on the score.
 
-The program has a main menu of three selections :
-1-Enter the game : the game will start and the program will generate a random number .
-2-View Score : to display the score ( 20 points for each win ) and the number of won rounds .
-3-Quit : it asks the user if they really want to exit and displays a goodbye message.
+Features
+Input: User inputs the number of subjects and grades for each subject.
+Calculation: The program calculates the sum and average of the grades.
+Output: Displays the final grade based on the average score.
+Task 3: ATM Interface 
+Description
+The ATM Interface project involves creating a simulation of an ATM machine. The application includes functionalities for user login, balance checking, depositing funds, withdrawing funds, and viewing transaction history.
 
-----------------------------------------------Task 2------------------------------------------------
-                                --------Student Grade Calulator----------
-27/07/2024
+Features
+User Authentication: Login system for account access.
+Balance Inquiry: Check current account balance.
+Deposit and Withdrawal: Manage account transactions.
